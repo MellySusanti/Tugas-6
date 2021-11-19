@@ -120,7 +120,7 @@ class App extends React.Component {
                   <tr>
                     <td>Jurusan</td>
                     <td>:</td>
-                    <td>Sistem Informasi</td>
+                    <td>Sitem Informasi</td>
                   </tr>
                   <tr>
                     <td>Foto Profil</td>
@@ -150,9 +150,6 @@ class App extends React.Component {
         <div className='container'>
           <nav className='navbar navbar-expand-md navbar-dark bg-dark'>
             <div className='container'>
-              <a className='navbar-brand' href='#'>
-                Tugas
-              </a>
               <div className='collapse navbar-collapse' id='navbarNavDropdown'>
                 <ul className='navbar-nav'>
                   <li className='nav-item'>
