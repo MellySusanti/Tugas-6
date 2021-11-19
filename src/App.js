@@ -118,6 +118,11 @@ class App extends React.Component {
                     <td>Kisaran</td>
                   </tr>
                   <tr>
+                    <td>Jurusan</td>
+                    <td>:</td>
+                    <td>Sistem Informasi</td>
+                  </tr>
+                  <tr>
                     <td>Foto Profil</td>
                     <td>:</td>
                     <td>
